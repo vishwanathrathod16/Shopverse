@@ -1,6 +1,6 @@
-# 🛒 ShopVerse
+# 🛒 Shopverse
 
-ShopVerse is a full-stack e-commerce monorepo project built with a modern tech stack. It features a Next.js frontend, a Node.js/Express backend, and a client-side cart, with payments handled by Razorpay.
+Shopverse is a full-stack e-commerce monorepo project built with a modern tech stack. It features a Next.js frontend, a Node.js/Express backend, and a client-side cart, with payments handled by Razorpay.
 
 ![Project Status: In Development](https://img.shields.io/badge/status-in_development-yellow)
 ![Tech: TypeScript](https://img.shields.io/badge/tech-TypeScript-blue)
